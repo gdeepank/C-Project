@@ -1,5 +1,6 @@
 # c-project
 Metro Reservation System
+
 A C based application built to handle the booking of Metro trains tickets and manage various user subscription features.
 This applications is used to supervise the booking of "Namma Metro" trains and manage various special e-metro card features.
 Namma Metro, also known as Bengaluru Metro is a metro system serving the city of Bengaluru, India. It is currently the second 
