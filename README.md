@@ -50,14 +50,23 @@ time.h --> localtime(),strftime()
 
 
 User defined functions used:
+
 bgfont() --> Function to change the console colour in the program
+
 dispStation() --> Function to display stations of each line
+
 tcost() --> Function to calculate the cost of tickets
+
 create_card() --> Function to create a metro card
+
 modify_card() --> Function to modify metro card details
+
 pay_cash() --> Function to pay the cost of tickets via cash/e-wallet/credit/debit card
+
 pay_card() --> Function to pay the cost of tickets through metro card 
+
 delete_card() --> Function to delete the metro card
+
 readcsv() --> Function to read a csv file and store the data in a user defined structure
 
 
