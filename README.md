@@ -2,6 +2,8 @@
 Metro Reservation System
 
 A C based application built to handle the booking of Metro trains tickets and manage various user subscription features.
+
+
 This applications is used to supervise the booking of "Namma Metro" trains and manage various special e-metro card features.
 Namma Metro, also known as Bengaluru Metro is a metro system serving the city of Bengaluru, India. It is currently the second 
 longest operational metro network in India after the Delhi Metro. 
@@ -12,20 +14,38 @@ The main purpose of this application was to reduce queues in metro counters by b
 
 
 System Software Info:
+
+
 Operating System --> Windows 10 
+
+
 IDE --> Dev C version 5.11 (TDM-GCC version 4.9.2)
 
 
 Files Includes With This Project:
+
+
 metro.c
+
+
 metro.txt
+
+
 metro.csv
 
 
 Header files and functions used:
+
+
 stdio.h --> printf(),fread(),fwrite(),fgets(),fclose(),fopen(),remove(),rename(),fseek(),ftell(),feof(),getchar(),scanf()
+
+
 stdlib.h --> atoi(),malloc(),exit(),system(),rand()
+
+
 string.h --> strcmp(),strtok(),strcpy(),strlen()
+
+
 time.h --> localtime(),strftime()
 
 
