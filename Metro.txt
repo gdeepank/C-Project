@@ -1,0 +1,73 @@
+﻿SL.No,Station,Line,Status
+1,Nagasandra,Green,0,1
+2,Dasarahalli,Green,0,1
+3,Jalahalli,Green,0,2
+4,Peenya Industrial Area,Green,0,3
+5,Goragunte Palya,Green,0,4
+6,Yeshwanthpura,Green,0,0
+7,Sandal Soap Factory,Green,0,1
+8,Mahalaxmi Layout,Green,0,2
+9,Rajajinagar,Green,0,2
+10,Kuvempu Road,Green,0,1
+11,Sriramapura,Green,0,3
+12,Sampige Road,Green,0,4
+13,Majestic,Green,1,5
+14,Chickpete,Green,0,2
+15,K.R Market,Green,0,0
+16,National College,Green,0,3
+17,Lalbagh,Green,0,2
+18,South End Circle,Green,0,0
+19,Jayanagara,Green,0,0
+20,R.V Road,Green,0,3
+21,Banashankari,Green,1,4
+22,Yelechenahalli,Green,0,1
+23,Gottigere,Red,0,5
+24,Hulimavu,Red,0,0
+25,BM,Red,0,3
+26,J.P Nagara,Red,0,2
+27,Jayadeva Hospital,Red,1,1
+28,Swagath Road Cross,Red,0,1
+29,Benguluru Diary,Red,0,0
+30,Mico Factory,Red,0,2
+31,Vellara Jn,Red,0,4
+32,M.G Road,Red,1,0
+33,Shivajinagara,Red,0,3
+34,Controlment Rly,Red,0,3
+35,Pottery Town,Red,0,5
+36,Tannery Road,Red,0,0
+37,Venkateshpura,Red,0,1
+38,Arabic Clg,Red,0,2
+39,Banashankari,Yellow,1,2
+40,Jayadeva Hospital,Yellow,1,0
+41,Silk Board,Yellow,0,5
+42,HSR Layout,Yellow,0,4
+43,Oxford Engineering,Yellow,0,2
+44,Munishwara,Yellow,0,1
+45,Chikkabeguru,Yellow,0,1
+46,Basapura,Yellow,0,3
+47,Hosur Road,Yellow,0,0
+48,Electronic City - I,Yellow,0,4
+49,Electronic City,Yellow,0,1
+50,Hoskuru Road,Yellow,0,2
+51,Hebbagodi,Yellow,0,1
+52,Bommasandra,Yellow,0,0
+53,Mysore Road,Purple,0,0
+54,Deepanjalinagara,Purple,0,2
+55,Attiguppe,Purple,0,2
+56,Vijayanagara,Purple,0,3
+57,Hosahalli,Purple,0,1
+58,Magadi,Purple,0,0
+59,City Rly Station,Purple,0,0
+60,Majestic,Purple,1,1
+61,Sir M.Vishveshwaraiah,Purple,0,2
+62,Vidhana Soudha,Purple,0,3
+63,Cubbon Park,Purple,0,2
+64,M.G Road,Purple,1,0
+65,Trinity,Purple,0,0
+66,Helesuru,Purple,0,4
+67,Indiranagara,Purple,0,1
+68,Swami Vivekananda Road,Purple,0,3
+69,Baiyyapanahalli,Purple,0,5
+70,K.R Puram,Purple,0,2
+71,ITPL,Purple,0,2
+72,Whitefield,Purple,0,0
