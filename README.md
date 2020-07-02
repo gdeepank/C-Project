@@ -9,7 +9,7 @@ Namma Metro, also known as Bengaluru Metro is a metro system serving the city of
 longest operational metro network in India after the Delhi Metro. 
 
 The Metro Network consists of 4 colour coded lines namely: Red, Yellow, Green and Purple.
-Through this application, We can buy tickets to travel in any one of the colour coded trains, view stations of any colour coded
+Through this application, we can buy tickets to travel in any one of the colour coded trains, view stations of any colour coded
 train, create metro Cards, modify metro cards, pay through the card and delete the metro card.
 The main purpose of this application was to reduce queues in metro counters by booking train tickets digitally. 
 
